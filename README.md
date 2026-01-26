@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there
+things i like:
+* DIY
+* open-source
+
 
 <!--
 **sgtM-devs/sgtM-devs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
