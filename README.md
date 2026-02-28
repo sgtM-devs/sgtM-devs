@@ -1,17 +1,32 @@
-## Hi there
+![hieddie.org banner](https://static.hieddie.org/icons/hieddie/hieddie-transparent-text.png)
 
-**things i like**:
-* DIY
-* open-source
+# My recent activity on GitHub...
 
-### Things I know well
-* Linux
-* Markdown
-* Python scripting
+### :zap: Recent Activity
 
-### Things i'm still learning
-* Git
-* JavaScript 
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+---
+
+# A bit about me...
+
+### I love:
+* **DIY**
+* **Free and Open-Source Software**
+
+### Things I know well:
+* **Linux** _(Bash, Debian, Ubuntu, etc)_
+* **Docker**
+* **Home networking**
+* **Markdown**
+* **Python** scripting
+* **Git**
+
+### Things I'm still learning
+* **GitHub**
+* **JavaScript** + **CSS** + **HTML**
 * Contributing to open-source
 
 
