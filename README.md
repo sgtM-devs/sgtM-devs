@@ -1,8 +1,6 @@
 ![hieddie.org banner](https://static.hieddie.org/icons/hieddie/hieddie-transparent-text.png)
 
-# My recent activity on GitHub...
-
-### :zap: Recent Activity
+# ⚡ My recent activity on GitHub...
 
 <!--START_SECTION:activity-->
 
@@ -10,25 +8,31 @@
 
 ---
 
-# A bit about me...
+# 👋 A bit about me...
 
-### I love:
+* **Self-taught**
+* **Computer hobbyist**
+* **Self-hosting enthusiast**
+
+#### 💜 I love:
 * **DIY**
 * **Free and Open-Source Software**
 
-### Things I know well:
-* **Linux** _(Bash, Debian, Ubuntu, etc)_
+<br>
+
+#### 👍 Things I know well:
+* **Computer hardware**
+* **Linux** _(Bash, Debian, etc)_
 * **Docker**
 * **Home networking**
 * **Markdown**
 * **Python** scripting
 * **Git**
 
-### Things I'm still learning
+#### 🌱 Things I'm still learning
 * **GitHub**
 * **JavaScript** + **CSS** + **HTML**
 * Contributing to open-source
-
 
 <!--
 **sgtM-devs/sgtM-devs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
