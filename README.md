@@ -1,7 +1,18 @@
 ## Hi there
-things i like:
+
+**things i like**:
 * DIY
 * open-source
+
+### Things I know well
+* Linux
+* Markdown
+* Python scripting
+
+### Things i'm still learning
+* Git
+* JavaScript 
+* Contributing to open-source
 
 
 <!--
