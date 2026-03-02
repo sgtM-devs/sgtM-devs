@@ -22,7 +22,7 @@
 
 #### 👍 Things I know well:
 * **Computer hardware**
-* **Linux** _(Bash, Debian, etc)_
+* **Linux** (Bash, Debian, etc)
 * **Docker**
 * **Home networking**
 * **Markdown**
