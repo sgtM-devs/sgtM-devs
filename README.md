@@ -1,15 +1,7 @@
 ![hieddie.org banner](https://static.hieddie.org/icons/hieddie/hieddie-transparent-text.png)
 
-# ⚡ My recent activity on GitHub...
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#475](https://github.com/n00bcodr/Jellyfin-Enhanced/pull/475#issuecomment-4091572825) in [n00bcodr/Jellyfin-Enhanced](https://github.com/n00bcodr/Jellyfin-Enhanced)
-2. 💪 Opened PR [#475](https://github.com/n00bcodr/Jellyfin-Enhanced/pull/475) in [n00bcodr/Jellyfin-Enhanced](https://github.com/n00bcodr/Jellyfin-Enhanced)
-<!--END_SECTION:activity-->
-
----
-
-# 👋 A bit about me...
+# hi! 👋
+I'm Eddie 
 
 * **Self-taught**
 * **Computer hobbyist**
@@ -19,7 +11,20 @@
 * **DIY**
 * **Free and Open-Source Software**
 
-<br>
+[More about me and what I can do](#more-about-me)
+
+---
+
+# ⚡ My recent activity on GitHub
+
+<!--START_SECTION:activity-->
+1. 🗣 Commented on [#475](https://github.com/n00bcodr/Jellyfin-Enhanced/pull/475#issuecomment-4091572825) in [n00bcodr/Jellyfin-Enhanced](https://github.com/n00bcodr/Jellyfin-Enhanced)
+2. 💪 Opened PR [#475](https://github.com/n00bcodr/Jellyfin-Enhanced/pull/475) in [n00bcodr/Jellyfin-Enhanced](https://github.com/n00bcodr/Jellyfin-Enhanced)
+<!--END_SECTION:activity-->
+
+---
+
+# More about me...
 
 #### Things I know well:
 * **Computer hardware**
