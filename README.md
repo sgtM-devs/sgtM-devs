@@ -9,6 +9,9 @@ I'm Eddie:
 #### I love:
 * **DIY**
 * **Free and Open-Source Software**
+* Music
+* Video games
+* A lotta stuff
 
 #### [More about me and what I can do](#more-about-me)
 
