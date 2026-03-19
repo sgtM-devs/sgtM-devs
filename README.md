@@ -15,13 +15,13 @@
 * **Computer hobbyist**
 * **Self-hosting enthusiast**
 
-#### 💜 I love:
+#### I love:
 * **DIY**
 * **Free and Open-Source Software**
 
 <br>
 
-#### 👍 Things I know well:
+#### Things I know well:
 * **Computer hardware**
 * **Linux** (Bash, Debian, etc)
 * **Docker**
@@ -30,7 +30,7 @@
 * **Python** scripting
 * **Git**
 
-#### 🌱 Things I'm still learning
+#### Things I'm still learning
 * **GitHub**
 * **JavaScript** + **CSS** + **HTML**
 * Contributing to open-source
