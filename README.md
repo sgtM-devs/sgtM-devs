@@ -1,8 +1,7 @@
 ![hieddie.org banner](https://static.hieddie.org/icons/hieddie/hieddie-transparent-text.png)
 
-# hi! 👋
-I'm Eddie 
-
+# 💜 Hi!
+I'm Eddie: 
 * **Self-taught**
 * **Computer hobbyist**
 * **Self-hosting enthusiast**
@@ -11,7 +10,9 @@ I'm Eddie
 * **DIY**
 * **Free and Open-Source Software**
 
-[More about me and what I can do](#more-about-me)
+#### [More about me and what I can do](#more-about-me)
+
+<br>
 
 ---
 
