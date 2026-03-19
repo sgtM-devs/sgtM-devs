@@ -3,8 +3,8 @@
 # ⚡ My recent activity on GitHub...
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#454](https://github.com/n00bcodr/Jellyfin-Enhanced/pull/454#issuecomment-4073242743) in [n00bcodr/Jellyfin-Enhanced](https://github.com/n00bcodr/Jellyfin-Enhanced)
-2. 💪 Opened PR [#233](https://github.com/geoffreybennett/alsa-scarlett-gui/pull/233) in [geoffreybennett/alsa-scarlett-gui](https://github.com/geoffreybennett/alsa-scarlett-gui)
+1. 🗣 Commented on [#475](https://github.com/n00bcodr/Jellyfin-Enhanced/pull/475#issuecomment-4091572825) in [n00bcodr/Jellyfin-Enhanced](https://github.com/n00bcodr/Jellyfin-Enhanced)
+2. 💪 Opened PR [#475](https://github.com/n00bcodr/Jellyfin-Enhanced/pull/475) in [n00bcodr/Jellyfin-Enhanced](https://github.com/n00bcodr/Jellyfin-Enhanced)
 <!--END_SECTION:activity-->
 
 ---
