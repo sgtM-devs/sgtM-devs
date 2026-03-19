@@ -19,8 +19,8 @@ I'm Eddie:
 # ⚡ My recent activity on GitHub
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#475](https://github.com/n00bcodr/Jellyfin-Enhanced/pull/475#issuecomment-4091572825) in [n00bcodr/Jellyfin-Enhanced](https://github.com/n00bcodr/Jellyfin-Enhanced)
-2. 💪 Opened PR [#475](https://github.com/n00bcodr/Jellyfin-Enhanced/pull/475) in [n00bcodr/Jellyfin-Enhanced](https://github.com/n00bcodr/Jellyfin-Enhanced)
+1. 🗣 Commented on [#295](https://github.com/jon4hz/jellysweep/pull/295#issuecomment-4093402296) in [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep)
+2. 🗣 Commented on [#295](https://github.com/jon4hz/jellysweep/pull/295#issuecomment-4093368447) in [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep)
 <!--END_SECTION:activity-->
 
 ---
