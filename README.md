@@ -35,6 +35,8 @@ I'm Eddie:
 
 ---
 
+<br>
+
 # More about me...
 
 #### Things I know well:
