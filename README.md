@@ -22,16 +22,16 @@ I'm Eddie:
 # ⚡ My recent activity on GitHub
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#300](https://github.com/jon4hz/jellysweep/issues/300#issuecomment-4101395570) in [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep)
-2. 🗣 Commented on [#300](https://github.com/jon4hz/jellysweep/issues/300#issuecomment-4101094758) in [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep)
-3. ❗ Opened issue [#300](https://github.com/jon4hz/jellysweep/issues/300) in [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep)
-4. 🎉 Merged PR [#475](https://github.com/n00bcodr/Jellyfin-Enhanced/pull/475) in [n00bcodr/Jellyfin-Enhanced](https://github.com/n00bcodr/Jellyfin-Enhanced)
-5. 🗣 Commented on [#295](https://github.com/jon4hz/jellysweep/pull/295#issuecomment-4094097880) in [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep)
-6. 🗣 Commented on [#295](https://github.com/jon4hz/jellysweep/pull/295#issuecomment-4093402296) in [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep)
-7. 🗣 Commented on [#295](https://github.com/jon4hz/jellysweep/pull/295#issuecomment-4093368447) in [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep)
-8. 🗣 Commented on [#475](https://github.com/n00bcodr/Jellyfin-Enhanced/pull/475#issuecomment-4091572825) in [n00bcodr/Jellyfin-Enhanced](https://github.com/n00bcodr/Jellyfin-Enhanced)
-9. 💪 Opened PR [#475](https://github.com/n00bcodr/Jellyfin-Enhanced/pull/475) in [n00bcodr/Jellyfin-Enhanced](https://github.com/n00bcodr/Jellyfin-Enhanced)
-10. 🗣 Commented on [#454](https://github.com/n00bcodr/Jellyfin-Enhanced/pull/454#issuecomment-4073242743) in [n00bcodr/Jellyfin-Enhanced](https://github.com/n00bcodr/Jellyfin-Enhanced)
+1. 🗣 Commented on [#300](https://github.com/jon4hz/jellysweep/issues/300#issuecomment-4101593693) in [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep)
+2. 🔒 Closed issue [#300](https://github.com/jon4hz/jellysweep/issues/300) in [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep)
+3. 🗣 Commented on [#300](https://github.com/jon4hz/jellysweep/issues/300#issuecomment-4101395570) in [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep)
+4. 🗣 Commented on [#300](https://github.com/jon4hz/jellysweep/issues/300#issuecomment-4101094758) in [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep)
+5. ❗ Opened issue [#300](https://github.com/jon4hz/jellysweep/issues/300) in [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep)
+6. 🎉 Merged PR [#475](https://github.com/n00bcodr/Jellyfin-Enhanced/pull/475) in [n00bcodr/Jellyfin-Enhanced](https://github.com/n00bcodr/Jellyfin-Enhanced)
+7. 🗣 Commented on [#295](https://github.com/jon4hz/jellysweep/pull/295#issuecomment-4094097880) in [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep)
+8. 🗣 Commented on [#295](https://github.com/jon4hz/jellysweep/pull/295#issuecomment-4093402296) in [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep)
+9. 🗣 Commented on [#295](https://github.com/jon4hz/jellysweep/pull/295#issuecomment-4093368447) in [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep)
+10. 🗣 Commented on [#475](https://github.com/n00bcodr/Jellyfin-Enhanced/pull/475#issuecomment-4091572825) in [n00bcodr/Jellyfin-Enhanced](https://github.com/n00bcodr/Jellyfin-Enhanced)
 <!--END_SECTION:activity-->
 
 
