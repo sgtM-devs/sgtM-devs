@@ -17,8 +17,6 @@ I'm Eddie:
 
 <br>
 
----
-
 # ⚡ My recent activity on GitHub
 
 <!--START_SECTION:activity-->
