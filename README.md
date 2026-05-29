@@ -20,9 +20,9 @@ I'm Eddie:
 # ⚡ My recent activity on GitHub
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#320](https://github.com/giuseppe99barchetta/SuggestArr/issues/320#issuecomment-4382398755) in [giuseppe99barchetta/SuggestArr](https://github.com/giuseppe99barchetta/SuggestArr)
-2. ❗ Opened issue [#320](https://github.com/giuseppe99barchetta/SuggestArr/issues/320) in [giuseppe99barchetta/SuggestArr](https://github.com/giuseppe99barchetta/SuggestArr)
-3. 💪 Opened PR [#307](https://github.com/jon4hz/jellysweep/pull/307) in [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep)
+1. 🗣 Commented on [#989](https://github.com/PrismLauncher/PrismLauncher/issues/989#issuecomment-4571657781) in [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher)
+2. 🗣 Commented on [#320](https://github.com/giuseppe99barchetta/SuggestArr/issues/320#issuecomment-4382398755) in [giuseppe99barchetta/SuggestArr](https://github.com/giuseppe99barchetta/SuggestArr)
+3. ❗ Opened issue [#320](https://github.com/giuseppe99barchetta/SuggestArr/issues/320) in [giuseppe99barchetta/SuggestArr](https://github.com/giuseppe99barchetta/SuggestArr)
 4. 🗣 Commented on [#301](https://github.com/jon4hz/jellysweep/issues/301#issuecomment-4136889869) in [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep)
 5. 🎉 Merged PR [#489](https://github.com/n00bcodr/Jellyfin-Enhanced/pull/489) in [n00bcodr/Jellyfin-Enhanced](https://github.com/n00bcodr/Jellyfin-Enhanced)
 6. 💪 Opened PR [#489](https://github.com/n00bcodr/Jellyfin-Enhanced/pull/489) in [n00bcodr/Jellyfin-Enhanced](https://github.com/n00bcodr/Jellyfin-Enhanced)
