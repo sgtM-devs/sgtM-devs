@@ -20,11 +20,11 @@ I'm Eddie:
 # ⚡ My recent activity on GitHub
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#889](https://github.com/nicholas-fedor/shoutrrr/pull/889) in [nicholas-fedor/shoutrrr](https://github.com/nicholas-fedor/shoutrrr)
-2. 🗣 Commented on [#989](https://github.com/PrismLauncher/PrismLauncher/issues/989#issuecomment-4571657781) in [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher)
-3. 🗣 Commented on [#320](https://github.com/giuseppe99barchetta/SuggestArr/issues/320#issuecomment-4382398755) in [giuseppe99barchetta/SuggestArr](https://github.com/giuseppe99barchetta/SuggestArr)
-4. ❗ Opened issue [#320](https://github.com/giuseppe99barchetta/SuggestArr/issues/320) in [giuseppe99barchetta/SuggestArr](https://github.com/giuseppe99barchetta/SuggestArr)
-5. 🎉 Merged PR [#489](https://github.com/n00bcodr/Jellyfin-Enhanced/pull/489) in [n00bcodr/Jellyfin-Enhanced](https://github.com/n00bcodr/Jellyfin-Enhanced)
+1. 🎉 Merged PR [#889](https://github.com/nicholas-fedor/shoutrrr/pull/889) in [nicholas-fedor/shoutrrr](https://github.com/nicholas-fedor/shoutrrr)
+2. 💪 Opened PR [#889](https://github.com/nicholas-fedor/shoutrrr/pull/889) in [nicholas-fedor/shoutrrr](https://github.com/nicholas-fedor/shoutrrr)
+3. 🗣 Commented on [#989](https://github.com/PrismLauncher/PrismLauncher/issues/989#issuecomment-4571657781) in [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher)
+4. 🗣 Commented on [#320](https://github.com/giuseppe99barchetta/SuggestArr/issues/320#issuecomment-4382398755) in [giuseppe99barchetta/SuggestArr](https://github.com/giuseppe99barchetta/SuggestArr)
+5. ❗ Opened issue [#320](https://github.com/giuseppe99barchetta/SuggestArr/issues/320) in [giuseppe99barchetta/SuggestArr](https://github.com/giuseppe99barchetta/SuggestArr)
 6. 💪 Opened PR [#489](https://github.com/n00bcodr/Jellyfin-Enhanced/pull/489) in [n00bcodr/Jellyfin-Enhanced](https://github.com/n00bcodr/Jellyfin-Enhanced)
 7. 🗣 Commented on [#486](https://github.com/n00bcodr/Jellyfin-Enhanced/issues/486#issuecomment-4113532254) in [n00bcodr/Jellyfin-Enhanced](https://github.com/n00bcodr/Jellyfin-Enhanced)
 8. ❗ Opened issue [#301](https://github.com/jon4hz/jellysweep/issues/301) in [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep)
