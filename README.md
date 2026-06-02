@@ -20,14 +20,14 @@ I'm Eddie:
 # ⚡ My recent activity on GitHub
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1019](https://github.com/AnalogJ/scrutiny/pull/1019) in [AnalogJ/scrutiny](https://github.com/AnalogJ/scrutiny)
-2. 💪 Opened PR [#1019](https://github.com/AnalogJ/scrutiny/pull/1019) in [AnalogJ/scrutiny](https://github.com/AnalogJ/scrutiny)
-3. 💪 Opened PR [#1884](https://github.com/jellyfin/jellyfin.org/pull/1884) in [jellyfin/jellyfin.org](https://github.com/jellyfin/jellyfin.org)
-4. 🎉 Merged PR [#889](https://github.com/nicholas-fedor/shoutrrr/pull/889) in [nicholas-fedor/shoutrrr](https://github.com/nicholas-fedor/shoutrrr)
-5. 💪 Opened PR [#889](https://github.com/nicholas-fedor/shoutrrr/pull/889) in [nicholas-fedor/shoutrrr](https://github.com/nicholas-fedor/shoutrrr)
-6. 🗣 Commented on [#989](https://github.com/PrismLauncher/PrismLauncher/issues/989#issuecomment-4571657781) in [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher)
-7. 🗣 Commented on [#320](https://github.com/giuseppe99barchetta/SuggestArr/issues/320#issuecomment-4382398755) in [giuseppe99barchetta/SuggestArr](https://github.com/giuseppe99barchetta/SuggestArr)
-8. ❗ Opened issue [#301](https://github.com/jon4hz/jellysweep/issues/301) in [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep)
+1. 🎉 Merged PR [#1884](https://github.com/jellyfin/jellyfin.org/pull/1884) in [jellyfin/jellyfin.org](https://github.com/jellyfin/jellyfin.org)
+2. 🎉 Merged PR [#1019](https://github.com/AnalogJ/scrutiny/pull/1019) in [AnalogJ/scrutiny](https://github.com/AnalogJ/scrutiny)
+3. 💪 Opened PR [#1019](https://github.com/AnalogJ/scrutiny/pull/1019) in [AnalogJ/scrutiny](https://github.com/AnalogJ/scrutiny)
+4. 💪 Opened PR [#1884](https://github.com/jellyfin/jellyfin.org/pull/1884) in [jellyfin/jellyfin.org](https://github.com/jellyfin/jellyfin.org)
+5. 🎉 Merged PR [#889](https://github.com/nicholas-fedor/shoutrrr/pull/889) in [nicholas-fedor/shoutrrr](https://github.com/nicholas-fedor/shoutrrr)
+6. 💪 Opened PR [#889](https://github.com/nicholas-fedor/shoutrrr/pull/889) in [nicholas-fedor/shoutrrr](https://github.com/nicholas-fedor/shoutrrr)
+7. 🗣 Commented on [#989](https://github.com/PrismLauncher/PrismLauncher/issues/989#issuecomment-4571657781) in [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher)
+8. 🗣 Commented on [#320](https://github.com/giuseppe99barchetta/SuggestArr/issues/320#issuecomment-4382398755) in [giuseppe99barchetta/SuggestArr](https://github.com/giuseppe99barchetta/SuggestArr)
 9. 🗣 Commented on [#300](https://github.com/jon4hz/jellysweep/issues/300#issuecomment-4101593693) in [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep)
 10. 🔒 Closed issue [#300](https://github.com/jon4hz/jellysweep/issues/300) in [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep)
 <!--END_SECTION:activity-->
