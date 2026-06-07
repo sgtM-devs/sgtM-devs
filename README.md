@@ -45,7 +45,7 @@ I'm Eddie:
 * **Docker**
 * **Home networking**
 * **Markdown**
-* **Python** scripting
+* **Python scripting**
 * **Git**
 
 #### Things I'm still learning
