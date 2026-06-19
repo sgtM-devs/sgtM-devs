@@ -20,16 +20,16 @@ I'm Eddie:
 # ⚡ My recent activity on GitHub
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#664](https://github.com/n00bcodr/Jellyfin-Enhanced/pull/664) in [n00bcodr/Jellyfin-Enhanced](https://github.com/n00bcodr/Jellyfin-Enhanced)
-2. 💪 Opened PR [#664](https://github.com/n00bcodr/Jellyfin-Enhanced/pull/664) in [n00bcodr/Jellyfin-Enhanced](https://github.com/n00bcodr/Jellyfin-Enhanced)
-3. 🗣 Commented on [#1884](https://github.com/jellyfin/jellyfin.org/pull/1884#issuecomment-4637940520) in [jellyfin/jellyfin.org](https://github.com/jellyfin/jellyfin.org)
-4. 🎉 Merged PR [#1884](https://github.com/jellyfin/jellyfin.org/pull/1884) in [jellyfin/jellyfin.org](https://github.com/jellyfin/jellyfin.org)
-5. 🎉 Merged PR [#1019](https://github.com/AnalogJ/scrutiny/pull/1019) in [AnalogJ/scrutiny](https://github.com/AnalogJ/scrutiny)
-6. 💪 Opened PR [#1019](https://github.com/AnalogJ/scrutiny/pull/1019) in [AnalogJ/scrutiny](https://github.com/AnalogJ/scrutiny)
-7. 💪 Opened PR [#1884](https://github.com/jellyfin/jellyfin.org/pull/1884) in [jellyfin/jellyfin.org](https://github.com/jellyfin/jellyfin.org)
-8. 🎉 Merged PR [#889](https://github.com/nicholas-fedor/shoutrrr/pull/889) in [nicholas-fedor/shoutrrr](https://github.com/nicholas-fedor/shoutrrr)
-9. 💪 Opened PR [#889](https://github.com/nicholas-fedor/shoutrrr/pull/889) in [nicholas-fedor/shoutrrr](https://github.com/nicholas-fedor/shoutrrr)
-10. 🗣 Commented on [#989](https://github.com/PrismLauncher/PrismLauncher/issues/989#issuecomment-4571657781) in [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher)
+1. 🎉 Merged PR [#666](https://github.com/n00bcodr/Jellyfin-Enhanced/pull/666) in [n00bcodr/Jellyfin-Enhanced](https://github.com/n00bcodr/Jellyfin-Enhanced)
+2. 🎉 Merged PR [#664](https://github.com/n00bcodr/Jellyfin-Enhanced/pull/664) in [n00bcodr/Jellyfin-Enhanced](https://github.com/n00bcodr/Jellyfin-Enhanced)
+3. 💪 Opened PR [#664](https://github.com/n00bcodr/Jellyfin-Enhanced/pull/664) in [n00bcodr/Jellyfin-Enhanced](https://github.com/n00bcodr/Jellyfin-Enhanced)
+4. 🗣 Commented on [#1884](https://github.com/jellyfin/jellyfin.org/pull/1884#issuecomment-4637940520) in [jellyfin/jellyfin.org](https://github.com/jellyfin/jellyfin.org)
+5. 🎉 Merged PR [#1884](https://github.com/jellyfin/jellyfin.org/pull/1884) in [jellyfin/jellyfin.org](https://github.com/jellyfin/jellyfin.org)
+6. 🎉 Merged PR [#1019](https://github.com/AnalogJ/scrutiny/pull/1019) in [AnalogJ/scrutiny](https://github.com/AnalogJ/scrutiny)
+7. 💪 Opened PR [#1019](https://github.com/AnalogJ/scrutiny/pull/1019) in [AnalogJ/scrutiny](https://github.com/AnalogJ/scrutiny)
+8. 💪 Opened PR [#1884](https://github.com/jellyfin/jellyfin.org/pull/1884) in [jellyfin/jellyfin.org](https://github.com/jellyfin/jellyfin.org)
+9. 🎉 Merged PR [#889](https://github.com/nicholas-fedor/shoutrrr/pull/889) in [nicholas-fedor/shoutrrr](https://github.com/nicholas-fedor/shoutrrr)
+10. 💪 Opened PR [#889](https://github.com/nicholas-fedor/shoutrrr/pull/889) in [nicholas-fedor/shoutrrr](https://github.com/nicholas-fedor/shoutrrr)
 <!--END_SECTION:activity-->
 
 
