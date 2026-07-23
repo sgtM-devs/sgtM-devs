@@ -20,7 +20,7 @@ I'm Eddie:
 # ⚡ My recent activity on GitHub
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#666](https://github.com/n00bcodr/Jellyfin-Enhanced/pull/666) in [n00bcodr/Jellyfin-Enhanced](https://github.com/n00bcodr/Jellyfin-Enhanced)
+1. 🎉 Merged PR [#668](https://github.com/n00bcodr/Jellyfin-Enhanced/pull/668) in [n00bcodr/Jellyfin-Enhanced](https://github.com/n00bcodr/Jellyfin-Enhanced)
 2. 🎉 Merged PR [#664](https://github.com/n00bcodr/Jellyfin-Enhanced/pull/664) in [n00bcodr/Jellyfin-Enhanced](https://github.com/n00bcodr/Jellyfin-Enhanced)
 3. 💪 Opened PR [#664](https://github.com/n00bcodr/Jellyfin-Enhanced/pull/664) in [n00bcodr/Jellyfin-Enhanced](https://github.com/n00bcodr/Jellyfin-Enhanced)
 4. 🗣 Commented on [#1884](https://github.com/jellyfin/jellyfin.org/pull/1884#issuecomment-4637940520) in [jellyfin/jellyfin.org](https://github.com/jellyfin/jellyfin.org)
